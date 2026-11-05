@@ -48,10 +48,13 @@ The application has been updated with additional features to make managing menu 
 
 ## Screenshots 
 
-<img width="518" height="933" alt="image" src="https://github.com/user-attachments/assets/109744f0-7f2b-4158-a444-2659f3e84a77" />
+. A screen displaying the application layout and the features and categories inculding the search and filter menu and the menu statistics.
 
+<img width="518" height="933" alt="image" src="https://github.com/user-attachments/assets/109744f0-7f2b-4158-a444-2659f3e84a77" />
 <img width="506" height="942" alt="image" src="https://github.com/user-attachments/assets/70c1c0df-1195-4ecf-828b-9b72a969ce00" />
 
+. The screen is displaying a "Menu item succsfully added" when new items are added.
+. An option to edit or delete an existing menu which can be located using the filter menu by the course or searching for the dish name.
 <img width="470" height="940" alt="image" src="https://github.com/user-attachments/assets/1e0da5c5-38be-407b-af3f-96b9aa395b77" />
 
 
