@@ -44,6 +44,16 @@ The application has been updated with additional features to make managing menu 
 - Added buttons for editing and deleting menu items.
 - Improved menu organisation and navigation.
 - Used React Native state (`useState`) to update information immediately.
+- Limitations- menu data resets after reloading.
+
+## Screenshots 
+
+<img width="518" height="933" alt="image" src="https://github.com/user-attachments/assets/109744f0-7f2b-4158-a444-2659f3e84a77" />
+
+<img width="506" height="942" alt="image" src="https://github.com/user-attachments/assets/70c1c0df-1195-4ecf-828b-9b72a969ce00" />
+
+<img width="470" height="940" alt="image" src="https://github.com/user-attachments/assets/1e0da5c5-38be-407b-af3f-96b9aa395b77" />
+
 
 ## Technologies 
 - React Native
