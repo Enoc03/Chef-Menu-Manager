@@ -11,14 +11,46 @@ It includes input validation and displays all successfully added dishes in a cle
 - Select a course
 - Enter a price
 - Input validation
-- Display added menu items
+- Display added menu items 
 
- ## Technology
+## New Features Added
 
+The application has been updated with additional features to make managing menu items easier and more efficient.
+
+1. Manage Menu Items
+- Edit existing menu items.
+- Update dish names, descriptions, courses and prices.
+- Delete menu items that are no longer needed.
+- Changes are displayed immediately in the application.
+- Confirmation message before deleting an item.
+
+2. Search and Filter Menu Items
+- Search for menu items using their names.
+- Filter menu items by course.
+- Available filters include Starter, Main Course and Dessert.
+- View all menu items using the All filter.
+- Clear the search and filters to display all menu items again.
+
+3. Menu Statistics
+- Display the total number of menu items.
+- Calculate the average price of all menu items.
+- Display the number of Starters.
+- Display the number of Main Courses.
+- Display the number of Desserts.
+- Statistics update automatically when menu items are added, edited or deleted.
+
+4. Improved User Experience
+- Added clear success and error messages.
+- Added buttons for editing and deleting menu items.
+- Improved menu organisation and navigation.
+- Used React Native state (`useState`) to update information immediately.
+
+## Technologies 
 - React Native
-- JavaScript
 - Expo Snack
-- Github 
+- JavaScript
+- React Hooks (`useState`)
+- StyleSheet for application styling
 
 ## References
 
