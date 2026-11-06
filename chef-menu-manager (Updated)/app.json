@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "chef-menu-manager",
+    "slug": "snack-f6e73332-87ce-4156-b258-fc8767c121ed",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Christoffel’s Menu Manager is a simple React Native application designed to help a restaurant chef manage menu items. The app allows the chef to enter a dish name, description, course, and price. It includes input validation and displays all successfully added dishes in a clear menu list.\n"
+  }
+}
