@@ -98,12 +98,14 @@ Manage Menu
 
 ## Project Structure
 
+'''text 
 Christoffels-Menu-Manager/
 │
 ├── App.js
 ├── assets/
 ├── package.json
 └── README.md
+'''
 
 ## References
 
