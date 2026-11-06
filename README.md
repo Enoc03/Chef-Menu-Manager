@@ -6,14 +6,23 @@ The application provides a simple and user-friendly interface where users can ad
 
 The system aims to make menu management easier, more organised and accessible.
 
- ## Features
+## Feartures 
 
-- Add a dish name
-- Add a dish description
-- Select a course
-- Enter a price
-- Input validation
-- Display added menu items 
+Dashboard: Displays an overview of the menu, including total dishes, average dish price, total menu value and main course statistics.
+
+Add Menu Items: Add dishes by entering the dish name, description, course category and price.
+
+Edit Menu Items: Update existing dish information.
+
+Delete Menu Items: Remove dishes from the menu with a confirmation prompt.
+
+Search Function: Search for dishes using their names or descriptions.
+
+Category Filtering: Filter dishes according to Starter, Main Course, Dessert and Drink categories.
+
+Input Validation: Ensures that required fields are completed and that valid prices are entered.
+
+Currency Support: Displays menu prices in South African Rand (ZAR).
 
 ## New Features Added
 
