@@ -6,7 +6,7 @@ The application provides a simple and user-friendly interface where users can ad
 
 The system aims to make menu management easier, more organised and accessible.
 
-## Feartures 
+## Features 
 
 Dashboard: Displays an overview of the menu, including total dishes, average dish price, total menu value and main course statistics.
 
