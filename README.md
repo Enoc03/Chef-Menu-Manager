@@ -1,8 +1,10 @@
  ## Christoffel's Menu Manager
 
-Christoffel’s Menu Manager is a simple React Native application designed to help a restaurant chef manage menu items.
-The app allows the chef to enter a dish name, description, course, and price. 
-It includes input validation and displays all successfully added dishes in a clear menu list.
+Christoffel's Menu Manager is a menu management application designed to help chefs and restaurant managers organise and manage their food menus efficiently.
+
+The application provides a simple and user-friendly interface where users can add new dishes, update existing menu items, remove dishes, manage menu categories and monitor menu statistics.
+
+The system aims to make menu management easier, more organised and accessible.
 
  ## Features
 
@@ -46,6 +48,28 @@ The application has been updated with additional features to make managing menu 
 - Used React Native state (`useState`) to update information immediately.
 - Limitations- menu data resets after reloading.
 
+## Future Improvements
+
+Integrate a database for permanent menu storage.
+
+Add user authentication and account management.
+
+Allow users to upload images of dishes.
+
+Introduce menu export and reporting functionality.
+
+Improve menu management with additional features.
+
+## Application Screens
+
+Dashboard
+
+Provides an overview of menu statistics and recently added dishes.
+
+Manage Menu
+
+Allows users to add, edit, delete, search and filter menu items.
+
 ## Screenshots 
 
 - A screen displaying the application layout and the features and categories inculding the search and filter menu and the menu statistics.
@@ -67,6 +91,15 @@ The application has been updated with additional features to make managing menu 
 - React Hooks (`useState`)
 - StyleSheet for application styling
 
+## Project Structure
+
+Christoffels-Menu-Manager/
+│
+├── App.js
+├── assets/
+├── package.json
+└── README.md
+
 ## References
 
 1. Expo (n.d.). Expo Documentation. https://docs.expo.dev/
@@ -81,4 +114,6 @@ The application has been updated with additional features to make managing menu 
 
 6. Mozilla (n.d.). JavaScript Array.prototype.map(). https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
 
-   
+## License
+
+This project is available for educational and demonstration purposes. No formal open-source licence has been assigned.   
